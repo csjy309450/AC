@@ -1,6 +1,3 @@
-# Prerequisites
-*.d
-
 # Compiled Object files
 *.slo
 *.lo
@@ -18,7 +15,6 @@
 
 # Fortran module files
 *.mod
-*.smod
 
 # Compiled Static libraries
 *.lai
@@ -30,3 +26,13 @@
 *.exe
 *.out
 *.app
+
+ACTest/Debug/
+
+ACTest/ACTest\.vcxproj\.filters
+
+ACTest/ACTest\.vcxproj\.user
+
+AC/Debug/
+
+AC/AC\.vcxproj\.user
